@@ -3,4 +3,4 @@ This project was developed as part of an Object-Oriented Programming (OOP) using
 
 
 
-![Project Preview](./Damka.png)
+(./Damka.png)
